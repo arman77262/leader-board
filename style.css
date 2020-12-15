@@ -1,0 +1,31 @@
+body{
+    background-color: #E5E5E5;
+}
+.logo{width: 40px;}
+.header-profole-pic{width: 40px;}
+
+.player img{
+    width: 56px;
+}
+.pra{
+    padding-left: 15px;
+}
+
+main{
+    width: 870px;
+}
+.top-player{
+    background-color: #ffffff;
+}
+.player{
+    padding: 20px;
+}
+.blog img{
+    width: 177px;
+}
+.blog{
+    padding: 20px;
+}
+.blog-details{
+    margin-left: 10px;
+}
